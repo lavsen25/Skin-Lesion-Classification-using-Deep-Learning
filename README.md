@@ -5,4 +5,4 @@ This work was part of Challenge in University of Girona as part of Medical Imagi
 where it is to classify skin lesion images into Benign and Malignant. In the second challenge, the classification is 3 class problem, where the problem is to classify the skin lesion images to 
 melanoma vs benign keratosis vs basal cell carcinoma.
 
-The project is carried out in python with Tensorflow framework and Keras API. 
+The project is carried out in Python3 with Tensorflow framework and Keras API. 
