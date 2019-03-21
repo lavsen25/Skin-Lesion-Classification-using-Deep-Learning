@@ -1,6 +1,6 @@
 # Skin-Lesion-Classification-using-Deep-Learning
 
-Introduction 
+## Introduction 
 
 A transfer learning apporach is used for the classification of Skin Lesions. A VGG-16 architecture and weights pre-trained from VGG-model is used for the classification. 
 This work was part of Challenge in University of Girona as part of Medical Imaging and Applications(MAIA) course. In the first challenge, the classification is binary task, 
@@ -9,3 +9,7 @@ melanoma vs benign keratosis vs basal cell carcinoma.
 
 The project is carried out in Python3 with Tensorflow framework and Keras API. 
 
+## Requirements
+Python 3
+Keras
+Jupyter Notebook 
