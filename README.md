@@ -9,6 +9,9 @@ melanoma vs benign keratosis vs basal cell carcinoma.
 
 
 The project is carried out in Python3 with Tensorflow framework and Keras API. 
+## Dataset
+The lesion images come from the HAM10000 Dataset. The subset of the data from HAM10000 was used for training the model. 6000 images were randomly split into Training and Validation and 1015 images were used for testing for Challenge 1. For challenge 2, 2500 images of all 3 classes were randomly split into Training and Validation and 226 images were used for testing purpose.  
+
 
 ## Dependencies
 - Python 3
