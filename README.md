@@ -10,6 +10,6 @@ melanoma vs benign keratosis vs basal cell carcinoma.
 The project is carried out in Python3 with Tensorflow framework and Keras API. 
 
 ## Requirements
-Python 3
-Keras
-Jupyter Notebook 
+- Python 3
+- Keras
+- Jupyter Notebook 
